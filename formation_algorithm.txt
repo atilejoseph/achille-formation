@@ -2,7 +2,7 @@ partie 1 : la base de la formation de ACHILLE
 
 l'algorithme : cest une suite d'instruction logique pour un resultat precis
 
-
+------------------------------------------------------------------------------
 
 Partie 2 : architecture d'un algo
 
@@ -15,3 +15,13 @@ DEBUT
 	instructions
 	...
 FIN
+
+------------------------------------------------------------------------------
+
+Partie 3 : les types de données
+
+* type numerique : integer (int), float, boolean, complex
+
+* type sequentiel : string, list, tuple, set
+
+* dictionnaire
