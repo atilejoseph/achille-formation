@@ -1,1 +1,17 @@
 partie 1 : la base de la formation de ACHILLE
+
+l'algorithme : cest une suite d'instruction logique pour un resultat precis
+
+
+
+Partie 2 : architecture d'un algo
+
+ALGO	"architecture"
+
+VARIABLES
+(definition des variables)
+
+DEBUT
+	instructions
+	...
+FIN
