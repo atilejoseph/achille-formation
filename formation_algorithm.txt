@@ -46,3 +46,8 @@ Partie 5 : lecture et ecriture
 lecture : lire , saisir
 ecriture : ecrire , afficher
 
+---------------------------------------------------------------------------
+
+Partie 6 : concatenation &
+---------------------------------------------------------------------------
+
