@@ -25,3 +25,5 @@ Partie 3 : les types de données
 * type sequentiel : string, list, tuple, set
 
 * dictionnaire
+
+------------------------------------------------------------------------------
