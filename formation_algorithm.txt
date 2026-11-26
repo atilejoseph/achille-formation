@@ -61,3 +61,50 @@ NON : rendre une condition son opposé
 
 XOR : vrai si les deux conditions sont faux
 ---------------------------------------------------------------------------
+
+Partie 8 : les tests
+
+si condition alors
+	instruction;
+finsi
+-------------------
+
+si condition alors
+	instruction1;
+sinon
+	instruction2;
+finsi
+
+---------------------
+
+si condition alors
+	instruction1;
+sinonsi condition alors
+	instruction2;
+sinon
+	instruction3;
+finsi
+---------------------
+
+les operateur de comparaison
+
+* == : egalité
+* != , <> : different
+* < : inferieur
+* > : superieur
+* <= : inferieur ou egale
+* >= : superieur ou egale
+
+--------------------------------
+
+les tests imbriqués
+
+si condition alors
+	si condition alors
+		instruction;
+	sinon
+		instruction;
+	finsi
+sinon
+	instruction;
+finsi
