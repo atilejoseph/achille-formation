@@ -39,3 +39,10 @@ Partie 4 : les operateurs et affectation
 * affectation =
 * egalité ==
 
+-----------------------------------------------------------------------------
+
+Partie 5 : lecture et ecriture
+
+lecture : lire , saisir
+ecriture : ecrire , afficher
+
