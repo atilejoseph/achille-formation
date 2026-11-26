@@ -51,3 +51,13 @@ ecriture : ecrire , afficher
 Partie 6 : concatenation &
 ---------------------------------------------------------------------------
 
+Partie 7 : les operateurs logiques
+
+OU : une seule condition doit etre vraie
+
+ET : les deux conditions doivent etre vraies
+
+NON : rendre une condition son opposé
+
+XOR : vrai si les deux conditions sont faux
+---------------------------------------------------------------------------
