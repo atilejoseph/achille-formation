@@ -27,3 +27,15 @@ Partie 3 : les types de données
 * dictionnaire
 
 ------------------------------------------------------------------------------
+
+Partie 4 : les operateurs et affectation
+
+* addition + ; +=
+* soustraction - ; -=
+* multiplication x ; x=
+* division / ; /=
+* puissance ** ; **=
+* modulo % ; %=
+* affectation =
+* egalité ==
+
